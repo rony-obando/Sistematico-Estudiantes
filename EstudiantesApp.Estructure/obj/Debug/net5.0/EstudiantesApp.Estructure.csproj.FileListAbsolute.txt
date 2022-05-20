@@ -13,3 +13,6 @@ C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\n
 C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\ref\EstudiantesApp.Estructure.dll
 C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.pdb
 C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.genruntimeconfig.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\bin\Debug\net5.0\EstudiantesApp.Domain.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\bin\Debug\net5.0\EstudiantesApp.Domain.pdb
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.csproj.CopyComplete

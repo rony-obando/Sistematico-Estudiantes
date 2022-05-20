@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using EstudiantesApp.Presentation;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -28,23 +29,7 @@ namespace EstudiantesApp.Presentation
         static void Main()
         {
 
-            var configurationBuilder = new ConfigurationBuilder()
-                            .SetBasePath(Directory.GetCurrentDirectory())
-                            .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
-            Configuration = configurationBuilder
-                .AddJsonFile("appsettings.json")
-                .AddEnvironmentVariables().Build(); ;
-
-            var builder = new HostBuilder().ConfigureServices((hostContext, services) =>
-            {
-                services.AddDbContext<PepitoSchoolContext>(options =>
-                {
-                    options.UseSqlServer(Configuration.GetConnectionString("Default"));
-                });
-            });
-
-
-
+            Configuration = new ConfigurationBuilder().AddJsonFile("appsettings.json").AddEnvironmentVariables().Build();
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
@@ -58,11 +43,12 @@ namespace EstudiantesApp.Presentation
             services.AddScoped<IEstudianteDBContext, PepitoSchoolContext>();
             services.AddScoped<IEstudianteRepository, EFEstudianteRepository>();
             services.AddScoped<IEstudianteService, EstudianteService>();
-            services.AddScoped<EstudianteForm>();
+
+            services.AddScoped<AñadirForm>();
 
             using (var serviceScope = services.BuildServiceProvider())
             {
-                var main = serviceScope.GetRequiredService<EstudianteForm>();
+                var main = serviceScope.GetRequiredService<AñadirForm>();
                 Application.Run(main);
             }
         }

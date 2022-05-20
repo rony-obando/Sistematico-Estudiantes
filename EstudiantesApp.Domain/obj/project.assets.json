@@ -6453,9 +6453,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 5.0.16",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.16",
       "Microsoft.Extensions.Configuration >= 5.0.0",
-      "Microsoft.Extensions.Configuration.Abstractions >= 5.0.0",
-      "Microsoft.Extensions.Hosting >= 5.0.0",
-      "Microsoft.Extensions.Hosting.Abstractions >= 5.0.0"
+      "Microsoft.Extensions.Hosting >= 5.0.0"
     ]
   },
   "packageFolders": {
@@ -6519,15 +6517,7 @@
             "target": "Package",
             "version": "[5.0.0, )"
           },
-          "Microsoft.Extensions.Configuration.Abstractions": {
-            "target": "Package",
-            "version": "[5.0.0, )"
-          },
           "Microsoft.Extensions.Hosting": {
-            "target": "Package",
-            "version": "[5.0.0, )"
-          },
-          "Microsoft.Extensions.Hosting.Abstractions": {
             "target": "Package",
             "version": "[5.0.0, )"
           }

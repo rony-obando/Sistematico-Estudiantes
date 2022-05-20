@@ -24,7 +24,9 @@ namespace EstudiantesApp.Estructure.Repositories
                 {
                     throw new ArgumentNullException("El objeto Estudiante es nulo");
                 }
+                
                 Estudiante.Estudiantes.Add(t);
+                Estudiante.SaveChanges();
             }
             catch (Exception)
             {
@@ -41,6 +43,7 @@ namespace EstudiantesApp.Estructure.Repositories
                     throw new ArgumentNullException("El objeto Estudiante es nulo");
                 }
                 Estudiante.Estudiantes.Remove(t);
+                Estudiante.SaveChanges();
                 return true;
             }
             catch (Exception)
@@ -69,7 +72,9 @@ namespace EstudiantesApp.Estructure.Repositories
         {
             try
             {
-                return Estudiante.Estudiantes.ToList();
+
+                List<Estudiante> estudiante=Estudiante.Estudiantes.ToList();
+                return estudiante;
             }
             catch (Exception)
             {
@@ -104,6 +109,7 @@ namespace EstudiantesApp.Estructure.Repositories
                 }
                
                 Estudiante.Estudiantes.Update(t);
+                Estudiante.SaveChanges();
                 return t.Id;
             }
             catch (Exception)
