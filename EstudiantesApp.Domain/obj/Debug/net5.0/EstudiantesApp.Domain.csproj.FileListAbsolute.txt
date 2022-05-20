@@ -1,0 +1,15 @@
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\bin\Debug\net5.0\EstudiantesApp.Domain.deps.json
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\bin\Debug\net5.0\EstudiantesApp.Domain.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\bin\Debug\net5.0\ref\EstudiantesApp.Domain.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\bin\Debug\net5.0\EstudiantesApp.Domain.pdb
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\obj\Debug\net5.0\EstudiantesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\obj\Debug\net5.0\EstudiantesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\obj\Debug\net5.0\EstudiantesApp.Domain.AssemblyInfo.cs
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\obj\Debug\net5.0\EstudiantesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\obj\Debug\net5.0\EstudiantesApp.Domain.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\obj\Debug\net5.0\ref\EstudiantesApp.Domain.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\obj\Debug\net5.0\EstudiantesApp.Domain.pdb
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\bin\Debug\net5.0\EstudiantesApp.Domain.runtimeconfig.json
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\bin\Debug\net5.0\EstudiantesApp.Domain.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\obj\Debug\net5.0\EstudiantesApp.Domain.genruntimeconfig.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Domain\obj\Debug\net5.0\EstudiantesApp.Domain.csproj.AssemblyReference.cache

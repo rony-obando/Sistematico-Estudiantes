@@ -1,0 +1,15 @@
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\bin\Debug\net5.0\EstudiantesApp.Applications.deps.json
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\bin\Debug\net5.0\EstudiantesApp.Applications.runtimeconfig.json
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\bin\Debug\net5.0\EstudiantesApp.Applications.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\bin\Debug\net5.0\EstudiantesApp.Applications.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\bin\Debug\net5.0\ref\EstudiantesApp.Applications.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\bin\Debug\net5.0\EstudiantesApp.Applications.pdb
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\obj\Debug\net5.0\EstudiantesApp.Applications.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\obj\Debug\net5.0\EstudiantesApp.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\obj\Debug\net5.0\EstudiantesApp.Applications.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\obj\Debug\net5.0\EstudiantesApp.Applications.AssemblyInfo.cs
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\obj\Debug\net5.0\EstudiantesApp.Applications.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\obj\Debug\net5.0\EstudiantesApp.Applications.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\obj\Debug\net5.0\ref\EstudiantesApp.Applications.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\obj\Debug\net5.0\EstudiantesApp.Applications.pdb
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Applications\obj\Debug\net5.0\EstudiantesApp.Applications.genruntimeconfig.cache

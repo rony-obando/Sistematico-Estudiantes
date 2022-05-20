@@ -1,0 +1,5 @@
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Presentation\obj\Debug\net5.0-windows\EstudiantesApp.Presentation.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Presentation\obj\Debug\net5.0-windows\EstudiantesApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Presentation\obj\Debug\net5.0-windows\EstudiantesApp.Presentation.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Presentation\obj\Debug\net5.0-windows\EstudiantesApp.Presentation.AssemblyInfo.cs
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Presentation\obj\Debug\net5.0-windows\EstudiantesApp.Presentation.csproj.CoreCompileInputs.cache

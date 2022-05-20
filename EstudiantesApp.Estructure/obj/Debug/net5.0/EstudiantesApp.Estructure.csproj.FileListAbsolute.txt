@@ -1,0 +1,15 @@
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\bin\Debug\net5.0\EstudiantesApp.Estructure.deps.json
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\bin\Debug\net5.0\EstudiantesApp.Estructure.runtimeconfig.json
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\bin\Debug\net5.0\EstudiantesApp.Estructure.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\bin\Debug\net5.0\EstudiantesApp.Estructure.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\bin\Debug\net5.0\ref\EstudiantesApp.Estructure.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\bin\Debug\net5.0\EstudiantesApp.Estructure.pdb
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.AssemblyInfo.cs
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\ref\EstudiantesApp.Estructure.dll
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.pdb
+C:\Users\carlo\source\repos\EstudiantesApp\EstudiantesApp.Estructure\obj\Debug\net5.0\EstudiantesApp.Estructure.genruntimeconfig.cache
